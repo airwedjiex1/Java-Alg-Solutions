@@ -1,4 +1,4 @@
-# java-alg-project
+# Java-Alg-Solutions
 
 
 
